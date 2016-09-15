@@ -12,6 +12,7 @@ HopGlass is a frontend for the [HopGlass Server](https://github.com/plumpudding/
 ![](doc/links.png?raw=true)
 ![](doc/statistics.png?raw=true)
 
+
 # Dependencies
 
 - npm
